@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Farm Management System Analysis</title>
+  <title>Tiwax Agro-Allied Farm System Analysis</title>
   
   <link rel="icon" type="image/png" href="img/title.png"/>
   <meta charset="utf-8">

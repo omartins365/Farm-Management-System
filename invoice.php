@@ -834,9 +834,9 @@ else
   
 <div class="abc-cc" style="width:100%">
   
-  &copy Farm Management<br/>
+  &copy Tiwax Agro-Allied Farm<br/>
 Contact : 011 2 541 214<br/>
-farmmanagement@gmail.com
+tiwaxagroallied@gmail.com
 </div>
 </div></div>
 
